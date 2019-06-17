@@ -67,6 +67,34 @@ body {
     height: 375px;
     width: 375px;
  }
+
+ .boxB {
+
+    background-image: url("https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Kaisa.png");
+    height: 375px;
+    width: 375px;
+ }
+
+ .boxC {
+
+    background-image: url("https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Pyke.png");
+    height: 375px;
+    width: 375px;
+ }
+
+ .boxD {
+
+    background-image: url("https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Yorick.png");
+    height: 375px;
+    width: 375px;
+ }
+
+ .boxE {
+
+    background-image: url("https://ddragon.leagueoflegends.com/cdn/9.11.1/img/champion/Maokai.png");
+    height: 375px;
+    width: 375px;
+ }
  
  #text {
 

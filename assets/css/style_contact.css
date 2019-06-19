@@ -1,12 +1,15 @@
 body {
 
     line-height: 2em;
+    background-image: url(../images/connectwork.png);
  
  }
  #list:hover {
  
-    color: white
+    color: white;
+
  }
+
  .header {
  
  background-color: white;
